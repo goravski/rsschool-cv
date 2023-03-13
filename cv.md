@@ -10,7 +10,7 @@ Junior Fullstack Developer
 - E-mail: evgoravsky@gmail.com
 - GitHub: [goravski](https://github.com/goravski)
 - Telegram: Evgen Goravski
-- Discord: Evgen Goravski (goravski)
+- Discord: Evgen Goravski (@goravski)
 
 
 ## About me:
