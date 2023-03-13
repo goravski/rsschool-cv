@@ -1,3 +1,5 @@
+
+![Avatar](https://avatars.githubusercontent.com/u/77806737?v=4)
 # Evgen Goravski
 Junior Fullstack Developer
 
@@ -8,6 +10,7 @@ Junior Fullstack Developer
 - E-mail: evgoravsky@gmail.com
 - GitHub: [goravski](https://github.com/goravski)
 - Telegram: Evgen Goravski
+- Discord: Evgen Goravski (goravski)
 
 
 ## About me:
@@ -27,7 +30,7 @@ Now I conclude increase knowledge over Javascript because I faced with UI diffic
 
 
 ## Code Example:
-`
+````
 public InlineKeyboardMarkup getInlineMessageButtons() {
 List<List<InlineKeyboardButton>> rowList = new ArrayList<>();
 Stream.of(Menu.values()).forEach(o -> rowList.add(getButton(o)));
@@ -43,7 +46,7 @@ return new ArrayList<>(Collections.singleton(InlineKeyboardButton.builder()
 .build()));
 }
 
-`
+````
 
 
 ## Experience:
@@ -58,7 +61,7 @@ Have been developed Telegram Bots with sights parsing elements, pet web-applicat
 
 
 ## Languages:
-* English - A2 (Pre-Intermediate) 
+* English - A2 (Pre-Intermediate) by EPAM tested
 * Russian - native
 
 
