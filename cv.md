@@ -1,8 +1,8 @@
-#Evgen Goravski
+# Evgen Goravski
 Junior Fullstack Developer
 
 
-##Contacts:
+## Contacts:
 - Location: Minsk, Belarus
 - Phone: +375 29 765-00-02
 - E-mail: evgoravsky@gmail.com
@@ -10,13 +10,13 @@ Junior Fullstack Developer
 - Telegram: Evgen Goravski
 
 
-##About me:
+## About me:
 I've got wide range experience project and financial management in Belarus. I always have been interesting IT.
 And I waite a chance to change the scope of professional activity. Since training programs had become available I started learning Java 2 years ago. 
 Now I conclude increase knowledge over Javascript because I faced with UI difficulties due developing web applications. 
 
 
-##Skills:
+## Skills:
 * Git, 
 * Java 8, 
 * Stream API, JDBC, Spring, Hibernate, Data, 
@@ -26,7 +26,7 @@ Now I conclude increase knowledge over Javascript because I faced with UI diffic
 * REST (Jackson)
 
 
-##Code Example:
+## Code Example:
 `
 public InlineKeyboardMarkup getInlineMessageButtons() {
 List<List<InlineKeyboardButton>> rowList = new ArrayList<>();
@@ -46,18 +46,18 @@ return new ArrayList<>(Collections.singleton(InlineKeyboardButton.builder()
 `
 
 
-##Experience:
+## Experience:
 Have been developed Telegram Bots with sights parsing elements, pet web-applications for over 1 year. 
 
 
-##Courses:
+## Courses:
 * Java core on javarush.ru
 * Java Web Development on EPAM Training Center group 37_JavaST_2021_November
 * Enterprise Java Developer on javaops.ru
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 
-##Languages:
+## Languages:
 * English - A2 (Pre-Intermediate) 
 * Russian - native
 
